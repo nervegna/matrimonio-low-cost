@@ -1,12 +1,12 @@
-# Come Negoziare con Vendor Matrimonio (Template Inclusi)
-
-**Meta Description:** Impara a negoziare con i fornitori del matrimonio usando template email pronti. Risparmi medi del 20-30% su fotografo, catering, fiorista e DJ con queste tecniche testate.
-
-**Target Keyword:** negoziare vendor matrimonio
-
-**Parole chiave correlate:** trattare prezzo fornitori matrimonio, template email fornitore, risparmiare fornitori, come negoziare catering
-
 ---
+title: "Come Negoziare con Vendor Matrimonio (Template Inclusi)"
+slug: "negoziare-vendor-matrimonio-template"
+keywords: ["negoziare vendor matrimonio", "trattare prezzo fornitori matrimonio", "template email fornitore", "risparmiare fornitori", "come negoziare catering"]
+description: "Impara a negoziare con i fornitori del matrimonio usando template email pronti. Risparmi medi del 20-30% su fotografo, catering, fiorista e DJ con queste tecniche testate."
+date: "2026-02-21"
+---
+
+# Come Negoziare con Vendor Matrimonio (Template Inclusi)
 
 La negoziazione è lo strumento più potente per risparmiare sul matrimonio, eppure la maggior parte delle coppie non la pratica. Per imbarazzo, per paura di sembrare "taccagni" o semplicemente perché non sanno come fare.
 

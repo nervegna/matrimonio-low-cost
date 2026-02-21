@@ -1,12 +1,12 @@
-# Catering Matrimonio Economico: Buffet vs Servito
-
-**Meta Description:** Confronto completo tra buffet e servito al tavolo per il catering matrimonio. Prezzi reali, pro e contro, e strategie per risparmiare il 40% sul cibo senza rinunciare alla qualità.
-
-**Target Keyword:** catering matrimonio economico
-
-**Parole chiave correlate:** buffet matrimonio, catering low cost, menù matrimonio prezzi, quanto costa catering matrimonio
-
 ---
+title: "Catering Matrimonio Economico: Buffet vs Servito"
+slug: "catering-matrimonio-economico-buffet-vs-servito"
+keywords: ["catering matrimonio economico", "buffet matrimonio", "catering low cost", "menù matrimonio prezzi", "quanto costa catering matrimonio"]
+description: "Confronto completo tra buffet e servito al tavolo per il catering matrimonio. Prezzi reali, pro e contro, e strategie per risparmiare il 40% sul cibo senza rinunciare alla qualità."
+date: "2026-02-21"
+---
+
+# Catering Matrimonio Economico: Buffet vs Servito
 
 Il catering è la voce più pesante del budget matrimonio, assorbendo il 40-50% del totale. Su un matrimonio da €20.000, significa €8.000-10.000 solo per il cibo e le bevande. Ma con le scelte giuste, si può dimezzare questa cifra mantenendo una qualità eccellente.
 

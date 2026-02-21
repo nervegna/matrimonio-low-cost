@@ -1,12 +1,12 @@
-# Matrimonio Economico: 30 Trucchi Che Funzionano
-
-**Meta Description:** 30 trucchi testati per organizzare un matrimonio economico in Italia senza rinunciare alla qualità. Strategie pratiche per risparmiare su location, catering, fotografo e ogni altra voce.
-
-**Target Keyword:** matrimonio economico idee
-
-**Parole chiave correlate:** trucchi matrimonio economico, risparmiare matrimonio, consigli matrimonio low cost, idee risparmio matrimonio
-
 ---
+title: "Matrimonio Economico: 30 Trucchi Che Funzionano"
+slug: "matrimonio-economico-trucchi"
+keywords: ["matrimonio economico idee", "trucchi matrimonio economico", "risparmiare matrimonio", "consigli matrimonio low cost", "idee risparmio matrimonio"]
+description: "30 trucchi testati per organizzare un matrimonio economico in Italia senza rinunciare alla qualità. Strategie pratiche per risparmiare su location, catering, fotografo e ogni altra voce."
+date: "2026-02-21"
+---
+
+# Matrimonio Economico: 30 Trucchi Che Funzionano
 
 Organizzare un matrimonio economico non significa rinunciare a nulla. Significa sapere dove tagliare e dove investire. Dopo aver analizzato centinaia di matrimoni in Italia, abbiamo raccolto i 30 trucchi che funzionano davvero per ridurre il budget senza che gli invitati (o le foto) se ne accorgano.
 

@@ -1,12 +1,12 @@
-# Bomboniere Fai da Te: 15 Idee Sotto €3
-
-**Meta Description:** 15 idee per bomboniere fai da te sotto €3 l'una. Tutorial facili, lista materiali e fornitori. Risparmia fino a €1.500 sulle bomboniere del matrimonio.
-
-**Target Keyword:** bomboniere fai da te
-
-**Parole chiave correlate:** bomboniere economiche, bomboniere DIY matrimonio, idee bomboniere originali, bomboniere low cost
-
 ---
+title: "Bomboniere Fai da Te: 15 Idee Sotto €3"
+slug: "bomboniere-fai-da-te-idee"
+keywords: ["bomboniere fai da te", "bomboniere economiche", "bomboniere DIY matrimonio", "idee bomboniere originali", "bomboniere low cost"]
+description: "15 idee per bomboniere fai da te sotto €3 l'una. Tutorial facili, lista materiali e fornitori. Risparmia fino a €1.500 sulle bomboniere del matrimonio."
+date: "2026-02-21"
+---
+
+# Bomboniere Fai da Te: 15 Idee Sotto €3
 
 Le bomboniere sono la voce più controversa del budget matrimonio. Costano €8-20 l'una nei negozi specializzati, il che significa €800-2.000 per 100 invitati. E la verità scomoda è che la maggior parte di esse finisce in un cassetto entro 24 ore dal matrimonio.
 

@@ -1,12 +1,12 @@
-# Checklist Costi Nascosti Matrimonio (PDF Gratis)
-
-**Meta Description:** La checklist completa dei costi nascosti del matrimonio in Italia. 25 voci che non trovi nei preventivi e che possono aggiungere €3.000-5.000 al budget. Scarica il PDF gratis.
-
-**Target Keyword:** costi nascosti matrimonio
-
-**Parole chiave correlate:** costi extra matrimonio, preventivo matrimonio nascosto, IVA matrimonio, supplementi matrimonio
-
 ---
+title: "Checklist Costi Nascosti Matrimonio (PDF Gratis)"
+slug: "checklist-costi-nascosti-matrimonio"
+keywords: ["costi nascosti matrimonio", "costi extra matrimonio", "preventivo matrimonio nascosto", "IVA matrimonio", "supplementi matrimonio"]
+description: "La checklist completa dei costi nascosti del matrimonio in Italia. 25 voci che non trovi nei preventivi e che possono aggiungere €3.000-5.000 al budget. Scarica il PDF gratis."
+date: "2026-02-21"
+---
+
+# Checklist Costi Nascosti Matrimonio (PDF Gratis)
 
 Il preventivo che hai in mano non è il costo reale del tuo matrimonio. Dietro ogni cifra si nascondono supplementi, tasse, sovraprezzi e costi accessori che possono aggiungere dal 15% al 30% al budget totale. Su un matrimonio da €15.000, sono €2.250-4.500 in più che non avevi previsto.
 

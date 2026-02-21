@@ -1,12 +1,12 @@
-# Location Matrimonio Economiche: 20 Alternative Ville
-
-**Meta Description:** 20 alternative economiche alle ville per il matrimonio in Italia. Agriturismi, ristoranti, casali, parchi e altre location che costano 1/3 delle ville classiche.
-
-**Target Keyword:** location matrimonio economiche
-
-**Parole chiave correlate:** location alternative matrimonio, agriturismo matrimonio, location low cost, dove sposarsi risparmiando
-
 ---
+title: "Location Matrimonio Economiche: 20 Alternative Ville"
+slug: "location-matrimonio-economiche-alternative"
+keywords: ["location matrimonio economiche", "location alternative matrimonio", "agriturismo matrimonio", "location low cost", "dove sposarsi risparmiando"]
+description: "20 alternative economiche alle ville per il matrimonio in Italia. Agriturismi, ristoranti, casali, parchi e altre location che costano 1/3 delle ville classiche."
+date: "2026-02-21"
+---
+
+# Location Matrimonio Economiche: 20 Alternative Ville
 
 La location è la voce che più di tutte gonfia il budget del matrimonio. Le ville classiche in Italia costano €3.000-8.000 solo per l'affitto dello spazio, senza catering, senza allestimenti, senza nulla. Ma esistono decine di alternative che costano un terzo, sono spesso più belle e offrono un'esperienza più autentica.
 

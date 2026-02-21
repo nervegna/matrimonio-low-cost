@@ -1,12 +1,12 @@
-# Budget Matrimonio 10000 Euro: Come Organizzarlo
-
-**Meta Description:** Come organizzare un matrimonio con budget di 10.000 euro in Italia. Piano dettagliato con distribuzione budget, fornitori e strategie per ogni voce di spesa.
-
-**Target Keyword:** budget matrimonio 10000 euro
-
-**Parole chiave correlate:** matrimonio 10000 euro, organizzare matrimonio economico, piano budget matrimonio, distribuzione costi matrimonio
-
 ---
+title: "Budget Matrimonio 10000 Euro: Come Organizzarlo"
+slug: "budget-matrimonio-10000-euro"
+keywords: ["budget matrimonio 10000 euro", "matrimonio 10000 euro", "organizzare matrimonio economico", "piano budget matrimonio", "distribuzione costi matrimonio"]
+description: "Come organizzare un matrimonio con budget di 10.000 euro in Italia. Piano dettagliato con distribuzione budget, fornitori e strategie per ogni voce di spesa."
+date: "2026-02-21"
+---
+
+# Budget Matrimonio 10000 Euro: Come Organizzarlo
 
 €10.000 è il budget ideale per un matrimonio intelligente in Italia. Abbastanza per un evento bellissimo con 80-100 invitati, poco abbastanza per non iniziare la vita matrimoniale con un debito. In questa guida vediamo esattamente come distribuire ogni euro per ottenere il massimo risultato.
 

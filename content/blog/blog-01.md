@@ -1,12 +1,12 @@
-# Matrimonio con €10.000: Guida Completa Italia 2025
-
-**Meta Description:** Scopri come organizzare un matrimonio completo con €10.000 in Italia. Guida pratica con breakdown costi, trucchi per risparmiare e alternative smart per ogni voce di spesa.
-
-**Target Keyword:** matrimonio low cost
-
-**Parole chiave correlate:** matrimonio economico, matrimonio 10000 euro, sposarsi risparmiando, budget matrimonio Italia
-
 ---
+title: "Matrimonio con €10.000: Guida Completa Italia 2025"
+slug: "matrimonio-10000-euro-guida-completa"
+keywords: ["matrimonio low cost", "matrimonio economico", "matrimonio 10000 euro", "sposarsi risparmiando", "budget matrimonio Italia"]
+description: "Scopri come organizzare un matrimonio completo con €10.000 in Italia. Guida pratica con breakdown costi, trucchi per risparmiare e alternative smart per ogni voce di spesa."
+date: "2026-02-21"
+---
+
+# Matrimonio con €10.000: Guida Completa Italia 2025
 
 Sposarsi con €10.000 in Italia non è solo possibile: è una scelta intelligente che sempre più coppie stanno facendo. Mentre il matrimonio medio italiano costa tra €25.000 e €35.000, migliaia di coppie dimostrano ogni anno che si può ottenere un matrimonio bellissimo, con cibo eccellente e foto memorabili, spendendo un terzo o meno.
 
