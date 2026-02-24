@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import Stripe from "stripe";
 import { Resend } from "resend";
-import path from "path";
-import fs from "fs";
+import crypto from "crypto";
 
 function getStripe() {
   return new Stripe(process.env.STRIPE_SECRET_KEY!, {
@@ -42,39 +41,28 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "No email" }, { status: 400 });
     }
 
-    // Read PDF file
-    const pdfPath = path.join(
-      process.cwd(),
-      "public",
-      "matrimonio-low-cost-guida.pdf"
-    );
+    // Generate secure download token (valid for 90 days)
+    const secret = process.env.DOWNLOAD_SECRET || "change-me-in-production";
+    const timestamp = Date.now();
+    const token = crypto
+      .createHash("sha256")
+      .update(`${customerEmail}-${timestamp}-${secret}`)
+      .digest("hex");
 
-    let attachments: { filename: string; content: Buffer }[] = [];
-    try {
-      const pdfBuffer = fs.readFileSync(pdfPath);
-      attachments = [
-        {
-          filename: "Matrimonio-Low-Cost-Guida-Tattica.pdf",
-          content: pdfBuffer,
-        },
-      ];
-    } catch {
-      console.error("PDF file not found at:", pdfPath);
-    }
+    // Generate download URL
+    const baseUrl = process.env.NEXT_PUBLIC_URL || "https://matrimoniolowcost.it";
+    const downloadUrl = `${baseUrl}/api/download/${token}?email=${encodeURIComponent(customerEmail)}`;
 
     try {
       await getResend().emails.send({
         from: "Matrimonio Low Cost <guida@matrimoniolowcost.it>",
         to: customerEmail,
         subject: "🎉 Ecco la tua Guida Matrimonio Low Cost!",
-        html: getEmailHTML(customerName, product),
-        attachments: attachments.map((a) => ({
-          filename: a.filename,
-          content: a.content,
-        })),
+        html: getEmailHTML(customerName, product, downloadUrl),
       });
 
       console.log(`Email sent to ${customerEmail} for product: ${product}`);
+      console.log(`Download URL: ${downloadUrl}`);
     } catch (emailErr) {
       console.error("Resend email error:", emailErr);
     }
@@ -83,7 +71,7 @@ export async function POST(req: NextRequest) {
   return NextResponse.json({ received: true });
 }
 
-function getEmailHTML(name: string, product: string): string {
+function getEmailHTML(name: string, product: string, downloadUrl: string): string {
   const isBundle = product === "bundle";
 
   return `<!DOCTYPE html>
@@ -109,14 +97,24 @@ function getEmailHTML(name: string, product: string): string {
       </p>
       <p style="font-size:16px;color:#333;line-height:1.6;">
         Grazie per aver acquistato la <strong>Guida Tattica Matrimonio Low Cost</strong>!
-        In allegato trovi il PDF completo di 60 pagine.
+        La tua guida da 60 pagine è pronta per il download.
       </p>
+
+      <!-- Download CTA -->
+      <div style="text-align:center;margin:32px 0;">
+        <a href="${downloadUrl}" style="display:inline-block;background:linear-gradient(135deg,#e11d48,#ec4899);color:white;font-size:18px;font-weight:bold;text-decoration:none;padding:16px 40px;border-radius:12px;box-shadow:0 4px 12px rgba(225,29,72,0.3);">
+          📥 Scarica la tua Guida
+        </a>
+        <p style="font-size:12px;color:#999;margin:12px 0 0;">
+          Link valido per 90 giorni
+        </p>
+      </div>
 
       <!-- Quick Start -->
       <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:12px;padding:20px;margin:24px 0;">
         <h2 style="font-size:18px;color:#166534;margin:0 0 12px;">Come iniziare:</h2>
         <ol style="margin:0;padding-left:20px;color:#166534;font-size:14px;line-height:2;">
-          <li>Scarica e salva il PDF allegato</li>
+          <li>Clicca il pulsante sopra per scaricare il PDF</li>
           <li>Leggi Sezione 1 — Il Sistema (20 min)</li>
           <li>Usa i template email per contattare i vendor</li>
           <li>Segui la Timeline 12 mesi</li>
